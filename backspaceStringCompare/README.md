@@ -9,3 +9,9 @@ Input: s = "ab#c", t = "ad#c"
 Output: true
 
 Explanation: Both s and t become "ac".
+
+## Constraints:
+
+1 <= s.length, t.length <= 200
+
+s and t only contain lowercase letters and '#' characters.
